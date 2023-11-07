@@ -17,6 +17,3 @@ function timedReading(maxLength, text) {
    // console.log(timedReading(1,"..."))
    // console.log(timedReading(1,"Oh!"))
    console.log(timedReading(5,"Although zebra species may have overlapping ranges, they do not interbreed."))
-   
-   
-									 
